@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 1120px;
+    margin: auto;
+    padding: 5px;
+}
+
+#formulario{
+    text-align: center;
+    background-color: rgb(166, 173, 173);
+}
